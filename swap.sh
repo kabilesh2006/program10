@@ -9,19 +9,19 @@
 # Create a 1 GB swap file
 sudo fallocate -l 1G /swapfile
 
-# Set correct permissions
+# Set permissions
 sudo chmod 600 /swapfile
 
-# Format the file as swap
+# Create swap area
 sudo mkswap /swapfile
 
-# Enable the swap file
+# Enable swap
 sudo swapon /swapfile
 
-# Display swap space information
+# Verify swap
 sudo swapon --show
 
-# Display total swap memory
+# Display memory and swap usage
 free -h
 
 exit 0
