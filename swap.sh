@@ -2,15 +2,6 @@
 
 # =====================================
 # Swap Space Creation Script
-# Student Name:kabilesh c
-# Roll Number:1U24IT048
-# =====================================
-
-# Write your commands below
-#!/bin/bash
-
-# =====================================
-# Swap Space Creation Script
 # Student Name: DHARAN K
 # Roll Number: 1U24IT029
 # =====================================
